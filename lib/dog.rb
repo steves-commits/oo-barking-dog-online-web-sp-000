@@ -7,7 +7,9 @@ class Dog
  
  def name= (dog_name) 
    @ame = dog_name 
-   
+ end
+ 
+ def bark
  
   
   
